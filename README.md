@@ -17,7 +17,7 @@ $ cd src/
 # Clone a minha imagem (latest) do repositório
 $ docker container run -d -p 8080:8080 otaviomart1ns/conversao-temperatura
 
-# Para acessar a apalicação
+# Para acessar a aplicação
 Acesse <http://localhost:8080>
 ```
 
