@@ -6,7 +6,7 @@ O projeto conversão de temperatura é um projeto desenvolvido em NodeJS. O proj
 ## Observações do projeto
 A aplicação é exposta usando a porta 8080
 
-### Utilização
+## Utilização
 ```bash
 # Clone o projeto do meu repositório
 $ git clone <git@github.com:otaviomart1ns/conversao-temperatura.git>
@@ -21,4 +21,4 @@ $ docker container run -d -p 8080:8080 otaviomart1ns/conversao-temperatura
 Acesse <http://localhost:8080>
 ```
 
-Fork do projeto base de Fabricio Veronez utilizado para estudo na Imersão DevOps e Cloud
+Fork do projeto base de Fabricio Veronez utilizado para estudo na Imersão DevOps e Cloud.
